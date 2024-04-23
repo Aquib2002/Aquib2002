@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently  .Net Developer 
 - 📫 How to reach me 📱9370010173
-    Email-- aquibshaikh048@gmail.com
+    Email -- aquibshaikh048@gmail.com
+  Linkdin -- Aquib Shaikh
 
 <!---
 Aquib2002/Aquib2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
