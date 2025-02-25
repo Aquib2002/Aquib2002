@@ -11,7 +11,7 @@ I am a passionate .NET Developer with 1 year of experience in building web appli
 - **Tools:** Git, Visual Studio, Postman  
 
 ## 📌 Featured Projects  
-### [Wallet Buddy](https://github.com/your-github/wallet-buddy)  
+### [Wallet Buddy](https://github.com/Aquib2002/Wallet-Buddy)  
 💰 Expense management system using ASP.NET Core, Entity Framework, and Syncfusion  
 
 ### [Bank Statement Analyzer](https://github.com/your-github/bank-statement-analyzer)  
